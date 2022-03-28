@@ -3,7 +3,9 @@
 ## INTRODUCTION
 
 •The Census of India conducted every 10 year's.
-•First census Started in 1871. The word 'Census' came in the Latin word 'Censere' and the 'Censere' meaning to assess. Or other word Census meaning 'an official count or survey, especially of a population'. 
+
+•First census Started in 1871. The word 'Census' came in the Latin word 'Censere' and the 'Censere' meaning to assess. Or other word Census meaning 'an official count or survey, especially of a population'.
+
 •Census is nothing but a process of collecting, analyzing, evaluating, publishing and discripting statistical data regarding the population.
 
 ### This repository consists of the following:
@@ -49,11 +51,17 @@ We are import many libraries as per our needed:-
 
 # Conclusion
 •We are using Census 2011 of India for our dataset.
+
 •Analyzing our data, we can see that Uttar Pradesh has the highest number of cities and there are 64 cities in Uttar Pradesh.
+
 •The highest city in India by population is Mumbai (Maharashtra) and population is 12442373. 
+
 •The lowest city in India by population is Kupurthala (Panjab) and population is 98916. 
-•The highest city in India by litaracy is Aizawl (Mizoram) and percentage is 98.36%. 
+
+•The highest city in India by litaracy is Aizawl (Mizoram) and percentage is 98.36%.
+
 •The lowest city in India by litaracy is Sambhal (Uttar Pradesh) and percentage is 48.98%. And we see that the total population of Hyderabad is 6731790 and the literacy percentage is 83.26% and 
+
 •Hyderabad is the 4th most populous city in India according to our data.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
